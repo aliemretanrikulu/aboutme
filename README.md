@@ -1,6 +1,6 @@
 <h1>Hi👋 I&#39;m Ali Emre Tanrıkulu</h1>  
 
-<p>I'm a <strong>Full-Stack Developer.</strong> I'm interested in JavaScript libraries and frameworks, especially ReactJS. </p>
+<p>I'm a <strong>Back-end Developer.</strong> I'm interested in JavaScript libraries and frameworks, especially ReactJS. </p>
 
 - 👨🏽‍💻 I’m currently working in the **C#** and **.NET**  
 - 🔍 I’m currently learning **React**
